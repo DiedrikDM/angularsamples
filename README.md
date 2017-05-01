@@ -1,2 +1,2 @@
-# angular2samples
-angular 2 samples for a quick demo
+# angularsamples
+angular samples for a quick demo
